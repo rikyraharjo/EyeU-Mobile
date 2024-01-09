@@ -1,16 +1,23 @@
-# mobile
+EyeU-Mobile
+Selamat datang di aplikasi mobile EyeU!
 
-A new Flutter project.
+Deskripsi Proyek
+Aplikasi EyeU-Mobile adalah solusi inovatif untuk deteksi dini masalah kesehatan mata menggunakan teknologi Convolutional Neural Network (CNN). Aplikasi ini dibangun dengan menggunakan Flutter, memastikan antarmuka pengguna yang ramah dan responsif.
 
-## Getting Started
+Fitur Utama
+Deteksi Dini: Menggunakan teknologi CNN untuk mendeteksi potensi masalah kesehatan mata secara dini.
+Antarmuka Pengguna Menarik: Desain antarmuka yang intuitif untuk pengalaman pengguna yang optimal.
+Riwayat Pemeriksaan: Menyimpan riwayat pemeriksaan untuk memantau perkembangan kesehatan mata.
+Notifikasi Pengingat: Mengirimkan notifikasi pengingat untuk menjaga konsistensi pemeriksaan mata.
+Cara Memulai
+Unduh Aplikasi: Unduh EyeU-Mobile melalui tautan aplikasi.
+Registrasi dan Masuk: Buat akun atau masuk dengan akun Anda untuk mulai menggunakan fitur deteksi dini.
+Lakukan Pemeriksaan: Ikuti petunjuk untuk melakukan pemeriksaan mata menggunakan kamera ponsel Anda.
+Lihat Hasil: Aplikasi akan memberikan hasil deteksi dini kesehatan mata Anda.
+Kontribusi
+Kami mengundang kontribusi dari komunitas untuk meningkatkan dan mengembangkan EyeU-Mobile. Jika Anda tertarik berkontribusi, silakan lihat panduan kontribusi kami.
 
-This project is a starting point for a Flutter application.
+Lisensi
+Proyek ini dilisensikan di bawah jenis lisensi. Lihat file LISENSI.md untuk informasi lebih lanjut.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Terima kasih telah menggunakan EyeU-Mobile! Bersama-sama, mari kita jaga kesehatan mata kita.
