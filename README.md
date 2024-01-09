@@ -1,23 +1,25 @@
-EyeU-Mobile
-Selamat datang di aplikasi mobile EyeU!
+**EyeU-Mobile**
+Welcome to the EyeU-Mobile mobile application!
 
-Deskripsi Proyek
-Aplikasi EyeU-Mobile adalah solusi inovatif untuk deteksi dini masalah kesehatan mata menggunakan teknologi Convolutional Neural Network (CNN). Aplikasi ini dibangun dengan menggunakan Flutter, memastikan antarmuka pengguna yang ramah dan responsif.
+**Project Description**
+EyeU-Mobile is an innovative solution for early detection of eye health issues using Convolutional Neural Network (CNN) technology. Built with Flutter, the application ensures a friendly and responsive user interface.
 
-Fitur Utama
-Deteksi Dini: Menggunakan teknologi CNN untuk mendeteksi potensi masalah kesehatan mata secara dini.
-Antarmuka Pengguna Menarik: Desain antarmuka yang intuitif untuk pengalaman pengguna yang optimal.
-Riwayat Pemeriksaan: Menyimpan riwayat pemeriksaan untuk memantau perkembangan kesehatan mata.
-Notifikasi Pengingat: Mengirimkan notifikasi pengingat untuk menjaga konsistensi pemeriksaan mata.
-Cara Memulai
-Unduh Aplikasi: Unduh EyeU-Mobile melalui tautan aplikasi.
-Registrasi dan Masuk: Buat akun atau masuk dengan akun Anda untuk mulai menggunakan fitur deteksi dini.
-Lakukan Pemeriksaan: Ikuti petunjuk untuk melakukan pemeriksaan mata menggunakan kamera ponsel Anda.
-Lihat Hasil: Aplikasi akan memberikan hasil deteksi dini kesehatan mata Anda.
-Kontribusi
-Kami mengundang kontribusi dari komunitas untuk meningkatkan dan mengembangkan EyeU-Mobile. Jika Anda tertarik berkontribusi, silakan lihat panduan kontribusi kami.
+**Key Features**
+* Early Detection: Utilizes CNN technology to detect potential eye health issues early on.
+* Attractive User Interface: Intuitive interface design for an optimal user experience.
+* Examination History: Stores examination history to monitor the progression of eye health.
+* Reminder Notifications: Sends reminder notifications to maintain consistency in eye check-ups.
 
-Lisensi
-Proyek ini dilisensikan di bawah jenis lisensi. Lihat file LISENSI.md untuk informasi lebih lanjut.
+**Getting Started**
+* Download the App: Download EyeU-Mobile through the app link.
+* Register and Log In: Create an account or log in with your existing account to start using the early detection features.
+* Conduct Examination: Follow the instructions to conduct eye examinations using your phone's camera.
+* View Results: The app will provide early detection results for your eye health.
 
-Terima kasih telah menggunakan EyeU-Mobile! Bersama-sama, mari kita jaga kesehatan mata kita.
+** Contributions**
+We invite contributions from the community to enhance and develop EyeU-Mobile. If you are interested in contributing, please refer to our contribution guidelines.
+
+**License**
+This project is licensed under a specific type of license. See the LISENSE.md file for more information.
+
+Thank you for using EyeU-Mobile! Together, let's take care of our eye health.
